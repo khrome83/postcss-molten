@@ -1,0 +1,26 @@
+{
+  "name": "postcss-molten",
+  "version": "1.0.0",
+  "description": "Used for shorthand for molten leading calculations in font, line-height, margins and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "molten",
+    "leading",
+    "typography",
+    "fluid",
+    "postcss"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khrome83/postcss-molten.git"
+
+  },
+  "author": "Zane C. Milakovic",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^5.2.5"
+  }
+}
